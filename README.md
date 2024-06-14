@@ -2,25 +2,25 @@
 🔭 **I’m currently working on ...**</br>
 Enhancing Advanced Driver Assistance Systems (ADAS) with cutting-edge AI.
 
-🌱 I’m currently learning ...</br>
+🌱 I’m currently learning ...**</br>
 New AI techniques for healthcare applications.
 
-👯 I’m looking to collaborate on ...</br>
+👯 I’m looking to collaborate on ...**</br>
 Innovative AI and computer vision projects.
 
-🤔 I’m looking for help with ...</br>
+🤔 I’m looking for help with ...**</br>
 Ideas for real-time AI solutions in transportation.
 
-💬 Ask me about ...</br>
+💬 Ask me about ...**</br>
 Deep Learning, ADAS, and my research projects!
 
-📫 How to reach me:
+📫 How to reach me:**
     [LinkedIn](https://www.linkedin.com/in/michaelmahesh/)
 
-😄 Pronouns:
+😄 Pronouns:**
 He/Him
 
-⚡ Fun fact:</br>
+⚡ Fun fact:**
 I won the Dr. C V Raman Achievement Award in 2012 and love staying updated with the latest AI trends!
 
 <!--
