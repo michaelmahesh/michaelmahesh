@@ -1,38 +1,29 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=michaelmahesh.michaelmahesh" />
+# Dr. K. Michael Mahesh, M.E., Ph.D.,
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Michael+Mahesh!;" />
-</h1>
+🎓 **Associate Professor**   
+📍 **Anna University Recognized Supervisor** (ID: 4040049)  
 
-<h3 align="center">Professor @ Saveetha Engineering College, Chennai </h3>
+I specialize in **Computer Vision**, **Machine Learning**, **Deep Learning**, and **Generative AI**, with a focus on real-world applications in **healthcare**, **autonomous systems**, and **surveillance analytics**.  
 
-<br/>
+## 🔬 Research Contributions  
+- Authored significant publications in top-tier journals (Q1 and Q2) on topics such as advanced driver assistance systems, MRI-based glioma analysis, and secure communication in wireless sensor networks.  
+- Holder of multiple patents in AI-driven healthcare, IoT-based systems, and biometric recognition.  
 
-<div align="center">
-  
-🔭**I’m currently working on ...**</br>
-Enhancing Advanced Driver Assistance Systems (ADAS) with cutting-edge AI.
+## 🎓 Ph.D. Guidance  
+- **Part-Time Scholars**: 6  
 
-🌱 **I’m currently learning ...**</br>
-New AI techniques for healthcare applications.
+## 📜 Professional Memberships  
+- **The Institution of Engineering and Technology (IET), UK**  
+- **The Institute of Electrical and Electronics Engineers (IEEE)**  
+- **The Institution of Engineers (India) (IEI)**  
 
-👯 **I’m looking to collaborate on ...**</br>
-Innovative AI and computer vision projects.
+## 🎖 Certifications  
+- Mastering OpenCV with Python  
+- Deep Learning with TensorFlow and Keras  
+- Computer Vision & Deep Learning Applications  
 
-🤔 **I’m looking for help with ...**</br>
-Ideas for real-time AI solutions in transportation.
+## 💡 About Me  
+Passionate about **exploring cutting-edge technologies** and **mentoring future researchers** to develop innovative solutions that create real-world impact.  
 
-💬 **Ask me about ...**</br>
-Deep Learning, ADAS, and my research projects!
-
-📫 **How to reach me:**</br>
- </div>
-
- <div align="center"> 
-  <a href="mailto:michaelmaheshk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/michaelmahesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  </div>
+## 📫 Let’s Connect  
+Always open to collaborations on impactful projects in AI and Computer Vision.
